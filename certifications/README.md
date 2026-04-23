@@ -43,6 +43,7 @@ earned as part of my cybersecurity learning journey.
 **Duration:** 4 Months Training Programme
 **Date Earned:** April 17, 2026
 **Credential ID:** TSTRN9X4MSW8PW
+**Verify:** https://certificates.tsacademyonline.com/verify
 
 ---
 
