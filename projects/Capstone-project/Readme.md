@@ -5,7 +5,7 @@
 **Assessment Date:** April 1, 2026
 **Type:** Cybersecurity Assessment Report
 
-📄 [View Full Report (PDF)](../Ashogbon_Ayomikun_Abdulazeez_Capstone_project.pdf) 
+📄 [Download Full Report (PDF)](./Ashogbon_Ayomikun_Abdulazeez_Capstone_project.pdf)
 
 ---
 
