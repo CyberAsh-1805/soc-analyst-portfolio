@@ -10,5 +10,5 @@ written to support cybersecurity tasks.
 
 | Language | Folder |
 |---|---|
-| [Python](tools-scripts/Python) | loops, data structures, input validation |
+| [Python](../tools-scripts/Python) | loops, data structures, input validation |
 
