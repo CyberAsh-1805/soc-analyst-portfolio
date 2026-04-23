@@ -46,13 +46,13 @@ A number guessing game using random number generation
 with limited attempts.
 
 **Concepts Covered:**
-	-	Importing modules (random)
-	-	Random number generation
-	-	While loops with counters
-	-	Conditional branching
-	- User input validation
+-	Importing modules (random)
+-	Random number generation
+-	While loops with counters
+-	Conditional branching
+- User input validation
 
-  ```python
+ ```python
 import random
 secret = random.randint(1, 20)
 attempts = 5
