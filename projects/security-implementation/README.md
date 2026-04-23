@@ -5,7 +5,7 @@
 **Date:** February 22, 2026
 **Type:** Internship Task — Stage 1
 
-📄 [View Full Report (PDF)](./Stage01_CS__AD010001_SecurityImplementation.pdf)
+📄 [Download Full Report (PDF)](./Stage01_CS__AD010001_SecurityImplementation.pdf)
 
 ---
 
