@@ -7,7 +7,8 @@ Cisco Packet Tracer 9.0.
 
 ## Lab 1: Segmented Office Network
 
-![Segmented Office Network](./assignment.png)
+![Segmented Office Network](./aca7810b-0950-429c-bbd0-81493b5a7be0.jpeg)
+
 
 ### Overview
 Designed and simulated a segmented office network 
