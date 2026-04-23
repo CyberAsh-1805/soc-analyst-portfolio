@@ -21,7 +21,7 @@ I'm an aspiring SOC Analyst with a background in Computer Science (Education), c
 | [Network Analysis](./network-analysis/) | Wireshark, Cisco Packet Tracer |
 | [Threat Intelligence](./threat-intelligence/) | VirusTotal, MXToolbox |
 | [Vulnerability Assessment](./vulnerability-assessment/) | Nessus |
-| [Projects](./projects/) | Phishing Analysis, NovaTech Assessment |
+| [Projects](./projects/) | Phishing Analysis, (Capstone project)NovaTech Assessment |
 | [Penetration Testing](./penetration-testing/) | Nmap, Burp Suite |
 | [Certifications](./certifications/) | Google, Cisco, TsAcademy & more |
 
