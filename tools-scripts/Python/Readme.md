@@ -51,8 +51,10 @@ with limited attempts.
 	-	While loops with counters
 	-	Conditional branching
 	- User input validation
-  
+
+  ```python
 import random
 secret = random.randint(1, 20)
 attempts = 5
+```
 
