@@ -34,6 +34,8 @@ I'm an aspiring SOC Analyst with a background in Computer Science (Education), c
 - **Threat Intel:** VirusTotal, MXToolbox
 - **Vulnerability Scanning:** Nessus
 - **Penetration Testing:** Nmap, Burp Suite
+- **Languages:** Python
+
 
 ---
 
