@@ -22,7 +22,7 @@ I'm an aspiring SOC Analyst with a background in Computer Science (Education), c
 | [Threat Intelligence](./threat-intelligence/) | VirusTotal, MXToolbox |
 | [Vulnerability Assessment](./vulnerability-assessment/) | Nessus |
 | [Projects](./projects/) | NovaTech Capstone project, Phishing Analysis, Network Scan, Security Implementation |
-| [Tools Scripts](./tools-script/) | Pytho Language |
+| [Tools Scripts](./tools-scripts/) | Python Language |
 | [Penetration Testing](./penetration-testing/) | Nmap, Burp Suite |
 | [Certifications](./certifications/) | Google, Cisco, TsAcademy & more |
 
