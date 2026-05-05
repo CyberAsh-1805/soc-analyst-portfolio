@@ -33,7 +33,7 @@ earned as part of my cybersecurity learning journey.
 | Introduction to Cybersecurity | Feb 19, 2026 |
 | Junior Cybersecurity Analyst Career Path Exam | Feb 20, 2026 |
 | Networking Basics | Feb 19, 2026 |
-| CCNA CyberOps | pending |
+| CCNA CyberOps | May 1, 2026 |
 
 
 ---
