@@ -42,3 +42,8 @@ A SIEM alert identified repeated outbound connections from **WS-FINANCE-04** to 
 - Threat Hunting Fundamentals
 
 
+## Project Report
+
+| Document | Description |
+|----------|-------------|
+| 📄 [Threat Intelligence Report](./Threat%20Intelligence%20Report.pdf) | Full investigation report, IOC analysis, MITRE ATT&CK mapping, SIEM correlation rule, and incident response recommendations. |
