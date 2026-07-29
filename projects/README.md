@@ -15,5 +15,6 @@ conducted independently and as part of training.
 | [Phishing Analysis 2 — Microsoft Impersonation](./Phishing-Analysis-2/) | Phishing investigation using VirusTotal, HaveIBeenPwned & URL analysis tools | January 2026 |
 | [Network Scan for Open Ports](./Scanning-for-open-port/) | Network reconnaissance using Nmap and Wireshark across 172.20.10.0/28 | April 2026 |
 | [Practical Security Implementation](./security-implementation/) | Password policy, 2FA setup & access control framework — Remote Hustle internship task | February 2026 |
-| [Threat Intelligence](./Threat-Intelligence/) |threat | June 2026 |
+| [Threat Intelligence](./Threat-Intelligence/) | investigating IOC using threat intelligence tools and frameworks, findings documentation,
+and recommendation.| June 2026 |
 
