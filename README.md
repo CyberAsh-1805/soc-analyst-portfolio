@@ -17,7 +17,7 @@ I'm an aspiring SOC Analyst with a background in Computer Science (Education), c
 
 | Category | Tools / Focus |
 |---|---|
-| [Projects](./projects/) | NovaTech Capstone project, Phishing Analysis, Network Scan, Security Implementation, Threat Intelligence and more! |
+| [Projects](./projects/) | NovaTech Capstone project, Phishing Analysis, Network Scan, Security Implementation, Threat Intelligence and More! |
 | [Tools Scripts](./tools-scripts/) | Python Language |
 
 
