@@ -16,9 +16,9 @@ conducted independently and as part of training.
 | [Network Scan for Open Ports](./Scanning-for-open-port/) | Network reconnaissance using Nmap and Wireshark across 172.20.10.0/28 | April 2026 |
 | [Practical Security Implementation](./security-implementation/) | Password policy, 2FA setup & access control framework — Remote Hustle internship task | February 2026 |
 | [Threat Intelligence](./Threat-Intelligence/) | investigating IOC using threat intelligence tools and frameworks, findings documentation, and recommendation.| June 2026 |
-| [SOC Investigations](./soc-investigations/) | Wazuh, Splunk |
-| [Network Analysis](./network-analysis/) | Wireshark, Cisco Packet Tracer |
-| [Threat Intelligence](./threat-intelligence/) | VirusTotal, MXToolbox |
-| [Vulnerability Assessment](./vulnerability-assessment/) | Nessus |
-| [Tools Scripts](./tools-scripts/) | Python Language |
-| [Penetration Testing](./penetration-testing/) | Nmap, Burp Suite |
+| [SOC Investigations](./soc-investigations/) | Wazuh, Splunk | March 2026 |
+| [Network Analysis](./network-analysis/) | Wireshark, Cisco Packet Tracer | April 2026 |
+| [Threat Intelligence](./threat-intelligence/) | VirusTotal, MXToolbox | January 2026 |
+| [Vulnerability Assessment](./vulnerability-assessment/) | Nessus | January 2026 |
+| [Tools Scripts](./tools-scripts/) | Python Language | November 2025 |
+| [Penetration Testing](./penetration-testing/) | Nmap, Burp Suite | April 2026 |
