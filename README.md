@@ -17,14 +17,9 @@ I'm an aspiring SOC Analyst with a background in Computer Science (Education), c
 
 | Category | Tools / Focus |
 |---|---|
-| [SOC Investigations](./soc-investigations/) | Wazuh, Splunk |
-| [Network Analysis](./network-analysis/) | Wireshark, Cisco Packet Tracer |
-| [Threat Intelligence](./threat-intelligence/) | VirusTotal, MXToolbox |
-| [Vulnerability Assessment](./vulnerability-assessment/) | Nessus |
 | [Projects](./projects/) | NovaTech Capstone project, Phishing Analysis, Network Scan, Security Implementation |
 | [Tools Scripts](./tools-scripts/) | Python Language |
-| [Penetration Testing](./penetration-testing/) | Nmap, Burp Suite |
-| [Certifications](./certifications/) | Google, Cisco, TsAcademy & more |
+
 
 ---
 
@@ -32,7 +27,7 @@ I'm an aspiring SOC Analyst with a background in Computer Science (Education), c
 
 - **SIEM:** Wazuh, Splunk
 - **Network:** Wireshark, Cisco Packet Tracer
-- **Threat Intel:** VirusTotal, MXToolbox
+- **Threat Intel:** VirusTotal, MXToolbox, haveibeenspawned
 - **Vulnerability Scanning:** Nessus
 - **Penetration Testing:** Nmap, Burp Suite
 - **Languages:** Python
