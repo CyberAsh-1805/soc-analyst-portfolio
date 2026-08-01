@@ -18,7 +18,7 @@ I'm an aspiring SOC Analyst with a background in Computer Science (Education), c
 | Category | Tools / Focus |
 |---|---|
 | [Projects](./projects/) | NovaTech Capstone project, Phishing Analysis, Network Scan, Security Implementation, Threat Intelligence and More! |
-| [Certifications](./certifications/) | Google Professional  Cybersecurity Certificate, TS Academy, CyberOps and More! |
+| [Certifications](./certifications/) | Google, Cisco, TsAcademy & more |
 
 
 ---
