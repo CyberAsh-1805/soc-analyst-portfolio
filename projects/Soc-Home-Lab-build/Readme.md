@@ -7,7 +7,7 @@ A self-built SOC lab simulating a Tier 1 analyst workflow: centralized logging, 
 **Author:** Ashogbon Abdulazeez, Aspiring SOC Analyst | Blue Team | Detection Engineering | SIEM | Threat Hunting
 
 📄 Full write-up: [SOC Home Lab Report.pdf](./SIEM%20LAB%20BUILD%20REPORT%20.pdf)
-🖥️ Slides: [SOC Home Lab Presentation.pptx](./SOC%20Home%20Lab%20Presentation.pptx)
+🖥️ Slides: [SOC Home Lab Presentation.pptx](./Siem%20Soc%20Home%20Lab%20Presentation.pdf)
 
 ---
 
