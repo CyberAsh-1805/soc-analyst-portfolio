@@ -22,4 +22,4 @@ conducted independently and as part of training.
 | [Vulnerability Assessment](./vulnerability-assessment/) | Nessus | January 2026 |
 | [Tools Scripts](./tools-scripts/) | Python Language | November 2025 |
 | [Penetration Testing](./penetration-testing/) | Nmap, Burp Suite | April 2026 |
-| [Soc Home Lab Build](./Soc-Home-Lab-build/) |.           | July 2026
+| [Soc Home Lab Build](./Soc-Home-Lab-build/) |A self-built SOC lab simulating a Tier 1 analyst workflow.  | July 2026
