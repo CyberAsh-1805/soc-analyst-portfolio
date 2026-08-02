@@ -13,7 +13,7 @@ A self-built SOC lab simulating a Tier 1 analyst workflow: centralized logging, 
 
 ## Lab Architecture
 
-![Architecture Diagram](./Architecture%20Diagram.png)
+![Architecture Diagram](./IMG_1528.jpeg)
 
 - **Wazuh (Docker)** on Kali Linux
 - **Ubuntu Endpoint** with Wazuh Agent and Suricata IDS
@@ -39,9 +39,9 @@ For rule logic, dashboard screenshots, troubleshooting notes, and configuration 
 
 | File | Description |
 |------|-------------|
-| [SOC Home Lab Report.pdf](./SOC%20Home%20Lab%20Report.pdf) | Complete technical documentation |
-| [SOC Home Lab Presentation.pptx](./SOC%20Home%20Lab%20Presentation.pptx) | Project presentation slides |
-| [Architecture Diagram.png](./Architecture%20Diagram.png) | Lab architecture |
+| [SOC Home Lab Report.pdf](./SIEM%20LAB%20BUILD%20REPORT%20.pdf) | Complete technical documentation |
+| [SOC Home Lab Presentation.pdf](./Siem%20Soc%20home%20lab%20Presentation.pdf) | Project presentation slides |
+| [Architecture Diagram.png](./IMG_1528.jpeg) | Lab architecture |
 | [Screenshots/](./Screenshots) | Dashboards, alerts, and validation screenshots |
 
 ---
