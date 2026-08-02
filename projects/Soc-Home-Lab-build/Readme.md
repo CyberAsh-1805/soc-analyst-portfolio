@@ -2,11 +2,11 @@
 
 ![Wazuh](https://img.shields.io/badge/SIEM-Wazuh-blue) ![Suricata](https://img.shields.io/badge/IDS-Suricata-orange) ![Docker](https://img.shields.io/badge/Deployment-Docker-2496ED) ![pfSense](https://img.shields.io/badge/Firewall-pfSense-black) ![MITRE](https://img.shields.io/badge/Mapped-MITRE%20ATT%26CK-red)
 
-A self-built SOC lab simulating a Tier 1 analyst workflow: centralized logging, custom correlation rules, threat intelligence enrichment, and automated malware response using Wazuh, Suricata, and VirusTotal.
+A self built SOC lab simulating a Tier 1 analyst workflow: centralized logging, custom correlation rules, threat intelligence enrichment, and automated malware response using Wazuh, Suricata, and VirusTotal.
 
 **Author:** Ashogbon Abdulazeez, Aspiring SOC Analyst | Blue Team | Detection Engineering | SIEM | Threat Hunting
 
-📄 Full write-up: [SOC Home Lab Report.pdf](./SIEM%20LAB%20BUILD%20REPORT%20.pdf)
+📄 Full write up: [SOC Home Lab Report.pdf](./SIEM%20LAB%20BUILD%20REPORT%20.pdf)
 🖥️ Slides: [SOC Home Lab Presentation.pdf](./Siem%20Soc%20home%20lab%20Presentation.pdf)
 
 ---
