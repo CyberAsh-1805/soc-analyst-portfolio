@@ -1,5 +1,4 @@
 # SOC Home Lab with Wazuh, Suricata & VirusTotal
-
 ![Wazuh](https://img.shields.io/badge/SIEM-Wazuh-blue) ![Suricata](https://img.shields.io/badge/IDS-Suricata-orange) ![Docker](https://img.shields.io/badge/Deployment-Docker-2496ED) ![pfSense](https://img.shields.io/badge/Firewall-pfSense-black) ![MITRE](https://img.shields.io/badge/Mapped-MITRE%20ATT%26CK-red)
 
 A self built SOC lab simulating a Tier 1 analyst workflow: centralized logging, custom correlation rules, threat intelligence enrichment, and automated malware response using Wazuh, Suricata, and VirusTotal.
