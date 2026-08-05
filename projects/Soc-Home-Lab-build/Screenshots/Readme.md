@@ -1,6 +1,6 @@
 # Screenshots
 
-Supporting screenshots for the SOC Home Lab project. See the [main README](../Readme.md) for full project context, and the [full report](../SOC%20Home%20Lab%20Report.pdf) for detailed analysis of each alert.
+Supporting screenshots for the SOC Home Lab project. See the [main README](../Readme.md) for full project context, and the [full report](../SIEM%20LAB%20BUILD%20REPORT%20.pdf) for detailed analysis of each alert.
 
 ---
 
