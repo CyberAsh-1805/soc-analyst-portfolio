@@ -41,7 +41,7 @@ For rule logic, dashboard screenshots, troubleshooting notes, and configuration 
 |------|-------------|
 | [SOC Home Lab Report.pdf](./SIEM%20LAB%20BUILD%20REPORT%20.pdf) | Complete technical documentation |
 | [SOC Home Lab Presentation.pdf](./Siem%20Soc%20home%20lab%20Presentation.pdf) | Project presentation slides |
-| [Architecture Diagram.png](./IMG_1528.jpeg) | Lab architecture |
+| [Architecture Diagram.png](./Architecture-Diagram.jpeg) | Lab architecture |
 | [Screenshots/](./Screenshots) | Dashboards, alerts, and validation screenshots |
 
 ---
