@@ -13,7 +13,7 @@ A self built SOC lab simulating a Tier 1 analyst workflow: centralized logging, 
 
 ## Lab Architecture
 
-![Architecture Diagram](./IMG_1528.jpeg)
+![Architecture Diagram](./Architecture-Diagram.jpeg)
 
 - **Wazuh (Docker)** on Kali Linux
 - **Ubuntu Endpoint** with Wazuh Agent and Suricata IDS
