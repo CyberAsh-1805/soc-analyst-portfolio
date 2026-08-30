@@ -23,4 +23,4 @@ conducted independently and as part of training.
 | [Tools Scripts](./tools-scripts/) | Python Language | November 2025 |
 | [Penetration Testing](./penetration-testing/) | Nmap, Burp Suite | April 2026 |
 | [Soc Home Lab Build](./Soc-Home-Lab-build/) |A self built SOC lab simulating a Tier 1 analyst workflow.  | July 2026 |
-| [Detection Engineering & Alert Triage](./Detection%20Engineering%20&%20Alert%20Triage/) | Under construction  | August 2026 |
+| [Detection Engineering & Alert Triage](./Detection%20Engineering%20&%20Alert%20Triage/) | improving Siem Lab detection capability and creating a structured workflow for analyst to follow| August 2026 |
