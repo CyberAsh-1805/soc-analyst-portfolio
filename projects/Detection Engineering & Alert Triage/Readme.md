@@ -1,6 +1,6 @@
 # Detection Engineering & Alert Triage
 
-Tier 1 SOC Analyst simulation project built on my existing [SOC home lab](https://github.com/CyberAsh-1805/soc-analyst-portfolio). This project focused on validating log sources, developing custom Wazuh detection rules mapped to MITRE ATT&CK, testing those rules through simulated attacks, tuning out alert noise, and applying a structured triage workflow to the resulting alerts.
+Tier 1 SOC Analyst simulation project built on my existing [SOC home lab](https://github.com/CyberAsh-1805/soc-analyst-portfolio/projects/Soc-Home-Lab-build). This project focused on validating log sources, developing custom Wazuh detection rules mapped to MITRE ATT&CK, testing those rules through simulated attacks, tuning out alert noise, and applying a structured triage workflow to the resulting alerts.
 
 ## Table of Contents
 
