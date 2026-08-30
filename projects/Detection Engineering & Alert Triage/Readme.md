@@ -5,7 +5,7 @@ Tier 1 SOC Analyst simulation project built on my existing [SOC home lab](../Soc
 ## Resources
 
 - 📄 [Full Report](./Detection%20Engineering%20%26%20Alert%20Triage%20Report.pdf)
-- 🖥️ [Presentation](./Detection%20Engineering%20%26%20Alert%20Triage%20Presentation%20.pdf)
+- 🖥️ [Presentation Slides](./Detection%20Engineering%20%26%20Alert%20Triage%20Presentation%20.pdf)
 - 📋 [Triage Workflow](./Triage%20Workflow.pdf)
 - 🗂️ [Lab Work Evidence](./Lab%20Works)
 
