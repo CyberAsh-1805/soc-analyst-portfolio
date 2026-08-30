@@ -235,5 +235,4 @@ A lightweight triage playbook was created defining how an analyst reviews an ale
 -a always,exit -F arch=b32 -S execve -k script_interp
 ```
 
----
 
