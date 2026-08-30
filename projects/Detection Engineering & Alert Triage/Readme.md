@@ -237,5 +237,3 @@ A lightweight triage playbook was created defining how an analyst reviews an ale
 
 ---
 
-*Part of the [soc-analyst-portfolio](https://github.com/CyberAsh-1805/soc-analyst-portfolio) home lab.*
-
