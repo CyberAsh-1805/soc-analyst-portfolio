@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-I'm an aspiring SOC Analyst with a background in Computer Science (Education), currently building practical skills through labs and industry-recognized certifications. Actively seeking entry-level and internship opportunities in cybersecurity.
+I'm an entry level SOC Analyst with a background in Computer Science (Education), currently building practical skills through labs and industry-recognized certifications. Actively seeking entry-level and internship opportunities in cybersecurity.
 
 
 ---
