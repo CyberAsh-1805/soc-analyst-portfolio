@@ -35,8 +35,8 @@ I updated my existing SOC lab to better simulate the day-to-day work of a Tier 1
 
 - Wazuh (single-node, Docker on Kali Linux)
 - Suricata on Ubuntu
-- pfSense as firewall/gateway (VMnet3, 10.0.3.0/24)
-- Sysmon on Windows 11, with VirusTotal integration
+- pfSense as firewall
+- Sysmon on Windows 11
 - Auditd on the Ubuntu endpoint
 
 ## Phase 1: Log Source Validation
