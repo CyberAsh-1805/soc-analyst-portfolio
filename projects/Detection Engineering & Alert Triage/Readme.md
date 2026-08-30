@@ -52,7 +52,6 @@ Before building new detections, I manually generated activity and confirmed even
 - Syslog, SSH activity, and brute-force correlation
 - Windows Sysmon process creation telemetry
 
-*Evidence screenshots: *
 
 ## Phase 2: Detection Rule Development
 
