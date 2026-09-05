@@ -1,6 +1,6 @@
 # APT29 Threat Group Profile
 
-Research write-up on APT29, mapped to the MITRE ATT&CK framework. Full report: [APT 29_Group.pdf](./APT%2029…..pdf)
+Research write-up on APT29, mapped to the MITRE ATT&CK framework. Full report: [APT 29 Group.pdf](./APT%2029…..pdf)
 
 ## Summary
 
