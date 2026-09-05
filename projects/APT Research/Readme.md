@@ -1,6 +1,6 @@
 # APT29 Threat Actor Profile
 
-Research write-up on APT29, mapped to the MITRE ATT&CK framework. Full report: [APT29_Threat_Profile.pdf](./APT29_Threat_Profile.pdf)
+Research write-up on APT29, mapped to the MITRE ATT&CK framework. Full report: [APT29_Threat_Profile.pdf](./APT29…..pdf)
 
 ## Summary
 
