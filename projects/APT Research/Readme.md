@@ -1,6 +1,6 @@
 # APT29 Threat Actor Profile
 
-Research write-up on APT29, mapped to the MITRE ATT&CK framework. Full report: [APT29_Threat_Profile.pdf](./APT%2029…..pdf)
+Research write-up on APT29, mapped to the MITRE ATT&CK framework. Full report: [APT 29_Group.pdf](./APT%2029…..pdf)
 
 ## Summary
 
@@ -36,7 +36,7 @@ APT29's TTPs span nearly every stage of the attack lifecycle:
 | Collection | Remote email collection, local data theft |
 | Exfiltration | 7-Zip archiving, HTTPS exfiltration |
 
-Full technique-to-ID mapping and use-case detail is in the [complete report](./APT29_Threat_Profile.pdf).
+Full technique-to-ID mapping and use-case detail is in the [complete report](./APT%2029…..pdf).
 
 ## References
 
