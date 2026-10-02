@@ -74,7 +74,7 @@ LetsDefend SIEM, Log Management, Endpoint Security, Email Security, Threat Intel
 
 ## Notes
 
-All alerts are from LetsDefend training scenarios. IPs, hosts, and users shown belong to the simulated environment.
+All alerts are from LetsDefend practice platform. IPs, hosts, and users shown belong to Letsdefend.
 
 ## About Me
 
