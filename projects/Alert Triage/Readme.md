@@ -10,11 +10,11 @@ Ten alert investigations completed on the LetsDefend platform in a Tier 1 SOC an
 **Analyst:** Ashogbon Ayomikun
 **Platform:** LetsDefend (SIEM, Log Management, Endpoint Security, Email Security, Threat Intel)
 
-**Quick Links:** [Full Report (PDF)](./ALERT_TRIAGE_REPORT.pdf) | [Screenshots](./Screenshots)
+**Quick Links:** [Full Report (PDF)](./ALERT%20TRIAGE%20REPORT.pdf) | [Screenshots](./Screenshots)
 
 ## Contents
 
-- [`ALERT_TRIAGE_REPORT.pdf`](./ALERT_TRIAGE_REPORT.pdf): the full reports for all 10 alerts
+- [`ALERT_TRIAGE_REPORT.pdf`](./ALERT%20TRIAGE%20REPORT.pdf): the full reports for all 10 alerts
 - [`screenshots/`](./Screenshots): appendix evidence (SIEM case closure, endpoint containment, VirusTotal, AbuseIPDB, MXToolbox)
 
 ## Report Structure
@@ -47,7 +47,7 @@ Every report follows the same layout, aligned with NIST SP 800-61 and using SANS
 | SOC326 | Impersonating Domain MX Record Change | ThreatIntel | Medium | True Positive |
 | SOC325 | Unauthorized Cloud Region Access Attempt | Web Attack | Low | True Positive (blocked, closed) |
 
-Full details, evidence, IOCs, and recommendations for each alert are in the [PDF report](./ALERT_TRIAGE_REPORT.pdf), with supporting evidence in the [screenshots folder](./Screenshots).
+Full details, evidence, IOCs, and recommendations for each alert are in the [PDF report](./ALERT%20TRIAGE%20REPORT.pdf), with supporting evidence in the [screenshots folder](./Screenshots).
 
 ## Coverage
 
