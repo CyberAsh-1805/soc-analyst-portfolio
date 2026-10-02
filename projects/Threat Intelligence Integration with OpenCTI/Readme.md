@@ -9,7 +9,9 @@
 Extending a Wazuh-based SOC home lab with OpenCTI so that security alerts are automatically enriched with threat intelligence.
 
 **Author:** Ashogbon Ayomikun
+
 **Date:** September 2026
+
 **Part of:** [SOC Analyst Portfolio](https://github.com/CyberAsh-1805/soc-analyst-portfolio)
 
 ## Documentation
