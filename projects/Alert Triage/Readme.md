@@ -8,6 +8,7 @@
 Ten alert investigations completed on the LetsDefend platform in a Tier 1 SOC analyst role. Each alert was triaged, classified, contained where needed, and documented in a structured report.
 
 **Analyst:** Ashogbon Ayomikun
+
 **Platform:** LetsDefend (SIEM, Log Management, Endpoint Security, Email Security, Threat Intel)
 
 **Quick Links:** [Full Report (PDF)](./ALERT%20TRIAGE%20REPORT.pdf) | [Screenshots](./Screenshots)
