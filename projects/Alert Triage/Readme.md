@@ -1,4 +1,4 @@
-# SOC Alert Triage Reports (LetsDefend)
+# SOC Alert Triage
 
 ![Alerts](https://img.shields.io/badge/Alerts%20Triaged-10-blue)
 ![Platform](https://img.shields.io/badge/Platform-LetsDefend-green)
@@ -10,10 +10,12 @@ Ten alert investigations completed on the LetsDefend platform in a Tier 1 SOC an
 **Analyst:** Ashogbon Ayomikun
 **Platform:** LetsDefend (SIEM, Log Management, Endpoint Security, Email Security, Threat Intel)
 
+**Quick Links:** [Full Report (PDF)](./ALERT_TRIAGE_REPORT.pdf) | [Screenshots](./screenshots)
+
 ## Contents
 
-- `ALERT_TRIAGE_REPORT.pdf`: the full reports for all 10 alerts
-- `screenshots/`: appendix evidence (SIEM case closure, endpoint containment, VirusTotal, AbuseIPDB, MXToolbox)
+- [`ALERT_TRIAGE_REPORT.pdf`](./ALERT_TRIAGE_REPORT.pdf): the full reports for all 10 alerts
+- [`screenshots/`](./screenshots): appendix evidence (SIEM case closure, endpoint containment, VirusTotal, AbuseIPDB, MXToolbox)
 
 ## Report Structure
 
@@ -45,6 +47,8 @@ Every report follows the same layout, aligned with NIST SP 800-61 and using SANS
 | SOC326 | Impersonating Domain MX Record Change | ThreatIntel | Medium | True Positive |
 | SOC325 | Unauthorized Cloud Region Access Attempt | Web Attack | Low | True Positive (blocked, closed) |
 
+Full details, evidence, IOCs, and recommendations for each alert are in the [PDF report](./ALERT_TRIAGE_REPORT.pdf), with supporting evidence in the [screenshots folder](./screenshots).
+
 ## Coverage
 
 - **Initial access:** exploitation of public-facing applications, phishing, quishing, RDP brute force
@@ -73,7 +77,7 @@ All alerts are from LetsDefend training scenarios. IPs, hosts, and users shown b
 
 ## About Me
 
-Aspiring SOC Analyst with hands on experience and known certificates.
+Aspiring SOC Analyst with hands on experience and known certificates
 
 - Portfolio: [github.com/CyberAsh-1805/soc-analyst-portfolio](https://github.com/CyberAsh-1805/soc-analyst-portfolio)
 - LinkedIn: [linkedin.com/in/ayomikun-ashogbon-0330a7391](https://linkedin.com/in/ayomikun-ashogbon-0330a7391)
