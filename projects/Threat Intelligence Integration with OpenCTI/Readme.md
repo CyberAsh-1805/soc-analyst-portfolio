@@ -12,7 +12,7 @@ Extending a Wazuh-based SOC home lab with OpenCTI so that security alerts are au
 
 **Date:** September 2026
 
-**Part of:** [SOC Analyst Portfolio](./Soc-Home-Lab-build)
+**Part of:** [SOC home lab](../Soc-Home-Lab-build).
 
 ## Documentation
 
