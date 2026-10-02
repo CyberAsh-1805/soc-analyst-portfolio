@@ -20,7 +20,7 @@ Extending a Wazuh-based SOC home lab with OpenCTI so that security alerts are au
 |---|---|
 | Full report (PDF) | [Threat Intelligence Integration with OpenCTI Report](THREAT%20INTELLIGENCE%20INTEGRATION%20WITH%20OPENCTI%20REPORT.pdf) |
 | Presentation slides | [View slides](Threat%20Intelligence%20Integration%20with%20OpenCTI.pptx) |
-| Screenshots | [/Screenshots](Screenshots) |
+| Screenshots | [Screenshots](Screenshots) |
 
 ## Overview
 
