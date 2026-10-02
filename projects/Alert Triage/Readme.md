@@ -47,7 +47,7 @@ Every report follows the same layout, aligned with NIST SP 800-61 and using SANS
 | SOC326 | Impersonating Domain MX Record Change | ThreatIntel | Medium | True Positive |
 | SOC325 | Unauthorized Cloud Region Access Attempt | Web Attack | Low | True Positive (blocked, closed) |
 
-Full details, evidence, IOCs, and recommendations for each alert are in the [PDF report](./ALERT_TRIAGE_REPORT.pdf), with supporting evidence in the [screenshots folder](./screenshots).
+Full details, evidence, IOCs, and recommendations for each alert are in the [PDF report](./ALERT_TRIAGE_REPORT.pdf), with supporting evidence in the [screenshots folder](./Screenshots).
 
 ## Coverage
 
