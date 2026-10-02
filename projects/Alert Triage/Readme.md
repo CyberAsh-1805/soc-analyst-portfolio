@@ -10,12 +10,12 @@ Ten alert investigations completed on the LetsDefend platform in a Tier 1 SOC an
 **Analyst:** Ashogbon Ayomikun
 **Platform:** LetsDefend (SIEM, Log Management, Endpoint Security, Email Security, Threat Intel)
 
-**Quick Links:** [Full Report (PDF)](./ALERT_TRIAGE_REPORT.pdf) | [Screenshots](./screenshots)
+**Quick Links:** [Full Report (PDF)](./ALERT_TRIAGE_REPORT.pdf) | [Screenshots](./Screenshots)
 
 ## Contents
 
 - [`ALERT_TRIAGE_REPORT.pdf`](./ALERT_TRIAGE_REPORT.pdf): the full reports for all 10 alerts
-- [`screenshots/`](./screenshots): appendix evidence (SIEM case closure, endpoint containment, VirusTotal, AbuseIPDB, MXToolbox)
+- [`screenshots/`](./Screenshots): appendix evidence (SIEM case closure, endpoint containment, VirusTotal, AbuseIPDB, MXToolbox)
 
 ## Report Structure
 
