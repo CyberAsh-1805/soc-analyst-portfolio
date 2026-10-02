@@ -34,7 +34,7 @@ Security Event > Wazuh > OpenCTI IOC Lookup > Threat Intel Match > Enriched Wazu
 
 ## Lab Environment
 
-![Lab architecture and data flow](screenshots/architecture.png)
+![Lab architecture and data flow](OpenCTI%20Lab%20Architecture%20.PNG)
 *Endpoint telemetry flows to Wazuh, and Wazuh queries OpenCTI over GraphQL for IOC enrichment.*
 
 | Component | Role |
