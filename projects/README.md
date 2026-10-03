@@ -10,7 +10,7 @@ conducted independently and as part of training.
 
 | Project | Description | Date |
 |---|---|---|
-| [Alert Triage](./Alert%20Triage/) |  | September 2026 |
+| [Alert Triage](./Alert%20Triage/) | Investigation of 10 SOC alerts, covering verdicts, IOCs, MITRE ATT&CK mapping, containment, and recommendations.  | September 2026 |
 | [APT Research](./APT%20Research/)|APT29 threat profile, mapping its known TTPs to the MITRE ATT&CK framework. | September 2026 |
 | [Soc Home Lab Build](./Soc-Home-Lab-build/) |A self built SOC lab simulating a Tier 1 analyst workflow.  | July 2026 |
 | [Detection Engineering & Alert Triage](./Detection%20Engineering%20&%20Alert%20Triage/) | improving Siem Lab detection capability and creating a structured workflow for analyst to follow| August 2026 |
