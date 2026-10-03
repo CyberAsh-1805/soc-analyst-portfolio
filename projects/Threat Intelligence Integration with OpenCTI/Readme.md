@@ -98,7 +98,7 @@ Threat intelligence platform deployment (OpenCTI), Wazuh integration and custom 
 
 ## Security Note
 
-All tokens, API keys and credentials have been redacted from the report and screenshots.
+All tokens, API keys and credentials have been redacted from the report.
 
 ## Contact
 
