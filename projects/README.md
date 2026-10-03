@@ -15,7 +15,6 @@ conducted independently and as part of training.
 | [Soc Home Lab Build](./Soc-Home-Lab-build/) |A self built SOC lab simulating a Tier 1 analyst workflow.  | July 2026 |
 | [Detection Engineering & Alert Triage](./Detection%20Engineering%20&%20Alert%20Triage/) | improving Siem Lab detection capability and creating a structured workflow for analyst to follow| August 2026 |
 | [Threat Intelligence Integration with OpenCTI](./Threat%20Intelligence%20Integration%20with%20OpenCTI/) |  | September 2026 |
-
 | [Vulnerability Management Sprint](./Vulnerability%20Management%20Sprint) |Configuring Vulnerability Detection and Syscollector, Discovering, Assessing, and Prioritizing (CVSS + CISA KEV + Asset Criticality), Remediating, Verifying, and Documenting| September 2026 |
 | [Threat Intelligence](./Threat-Intelligence/) | investigating IOC using threat intelligence tools and frameworks, findings documentation, and recommendation.| June 2026 |
 | [(Capstone project)NovaTech Security Assessment](./Capstone-project/) | Full cybersecurity assessment: network analysis, SOC investigation, vulnerability findings & recommendations | April 2026 |
