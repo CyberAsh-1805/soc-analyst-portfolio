@@ -18,7 +18,7 @@ I'm an entry level SOC Analyst with a background in Computer Science (Education)
 | Category | Tools / Focus |
 |---|---|
 | [Projects](./projects/) | NovaTech Capstone project, Phishing Analysis, Network Scan, Security Implementation, Threat Intelligence & more |
-| [Certifications](./certifications/) | Google, Cisco, TsAcademy & more |
+| [Certifications](./certifications/) | Google, CC, Cisco, TsAcademy & more |
 
 
 ---
@@ -27,8 +27,8 @@ I'm an entry level SOC Analyst with a background in Computer Science (Education)
 
 - **SIEM:** Wazuh, Splunk
 - **Network:** Wireshark, Cisco Packet Tracer
-- **Threat Intel:** VirusTotal, MXToolbox, haveibeenspawned
-- **Vulnerability Scanning:** Nessus
+- **Threat Intel:** VirusTotal, MXToolbox, haveibeenspawned, openCTI, abuse.ch
+- **Vulnerability Scanning:** Nessus, syscollector
 - **Penetration Testing:** Nmap, Burp Suite
 - **Languages:** Python
 
@@ -38,6 +38,7 @@ I'm an entry level SOC Analyst with a background in Computer Science (Education)
 ## 📜 Certifications
 
 - ✅ Google Cybersecurity Professional Certificate
+- ✅ ISC2 Certified in Cybersecurity (CC)
 - ✅ CCNA CyberOps
 - ✅ Junior Cybersecurity Analyst Career Path
 - ✅ Introduction to Cybersecurity
