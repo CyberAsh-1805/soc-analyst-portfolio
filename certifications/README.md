@@ -25,6 +25,15 @@ earned as part of my cybersecurity learning journey.
 
 ---
 
+## ✅ ISC2 CC 
+**Issuing Body:** ISC2
+
+| Certificate | Date |
+|---|---|
+| Certified in Cybersecurity (CC) | Oct 08, 2026 |
+
+---
+
 ## ✅ Cisco Certifications
 **Issuing Body:** Cisco Networking Academy
 
